@@ -68,11 +68,12 @@
             </plugin>
         </plugins>
     </build>
-
+  <dependencies>
     <dependency>
       <groupId>group1</groupId>
       <artifactId>jay</artifactId>
       <version>1.0</version>
     </dependency>
+  </dependencies>
 
 </project>
