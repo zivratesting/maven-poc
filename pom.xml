@@ -71,8 +71,8 @@
   <dependencies>
     <dependency>
       <groupId>group1</groupId>
-      <artifactId>jay</artifactId>
-      <version>1.0</version>
+      <artifactId>bfg</artifactId>
+      <version>1.14.0</version>
     </dependency>
   </dependencies>
 
